@@ -1,0 +1,11 @@
+C:\Users\Bogdan\Desktop\INFO125\misc\ProduceManagement1\bin\Debug\ProduceManagement1.exe.config
+C:\Users\Bogdan\Desktop\INFO125\misc\ProduceManagement1\bin\Debug\ProduceManagement1.exe
+C:\Users\Bogdan\Desktop\INFO125\misc\ProduceManagement1\bin\Debug\ProduceManagement1.pdb
+C:\Users\Bogdan\Desktop\INFO125\misc\ProduceManagement1\obj\Debug\ProduceManagement1.csproj.AssemblyReference.cache
+C:\Users\Bogdan\Desktop\INFO125\misc\ProduceManagement1\obj\Debug\ProduceManagement1.Properties.Resources.resources
+C:\Users\Bogdan\Desktop\INFO125\misc\ProduceManagement1\obj\Debug\ProduceManagement1.csproj.GenerateResource.cache
+C:\Users\Bogdan\Desktop\INFO125\misc\ProduceManagement1\obj\Debug\ProduceManagement1.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\INFO125\misc\ProduceManagement1\obj\Debug\ProduceManagement1.exe
+C:\Users\Bogdan\Desktop\INFO125\misc\ProduceManagement1\obj\Debug\ProduceManagement1.pdb
+C:\Users\Bogdan\Desktop\INFO125\misc\ProduceManagement1\obj\Debug\ProduceManagement1.Login.resources
+C:\Users\Bogdan\Desktop\INFO125\misc\ProduceManagement1\obj\Debug\ProduceManagement1.Produce.resources
